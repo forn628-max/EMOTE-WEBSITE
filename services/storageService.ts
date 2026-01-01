@@ -23,19 +23,19 @@ export const defaultSettings: AppSettings = {
   getKeyUrl: 'https://youtube.com',
   maintenanceMode: false,
   socialLinks: {
-    youtube: 'https://youtube.com/@najmi_ff_experiment?si=Za92yXnG7VuE5Iul',
-    telegram: 'https://t.me/najmiffexperiment6',
+    youtube: 'https://youtube.com/@Raisatar',
+    telegram: 'https:/raisatar',
     instagram: '',
     discord: '',
   },
-  adminEmail: 'najmi@gmail.com',
+  adminEmail: 'instagramdeveloper8@gmail.com',
 };
 
 export const defaultServers: Server[] = [
   {
     id: '1',
     name: 'INDIA',
-    apiUrl: 'https://najmi-emote-api-1.onrender.com',
+    apiUrl: 'https://bot-web-9ugn.onrender.com',
     order: 1,
   },
 ];
